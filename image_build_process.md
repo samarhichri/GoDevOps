@@ -1,4 +1,5 @@
-graph TD
+mermaid
+'''graph TD
     subgraph Containerfile
         A[Start: FROM Base Image] --> B(Layer 1: Minimal OS/Kernel);
         B --> C(Layer 2: RUN Install Dependencies);
@@ -10,3 +11,4 @@ graph TD
     click A "Explain FROM/Base"
     click C "Explain RUN/Dependencies"
     click D "Explain COPY/Code"
+    '''
