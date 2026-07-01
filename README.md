@@ -18,6 +18,7 @@ Here you’ll find everything you need to learn **Linux, Containerization, OpenS
 | Topic | English Playlist | French Playlist | Description |
 |--------|------------------|-----------------|--------------|
 | **Containerization Serie 1** | [ Containerization for beginners](https://youtube.com/playlist?list=PLH6Un79Pzkkcj0HFjDchQ2HNT7NQwcvQr&si=oPkym6lP1C1El-m3) | [La conteneurisation pour les débutants](https://youtube.com/playlist?list=PLH6Un79PzkkeMQISNUHgz9Ysu10byFmGD&si=eS261hbhombb5E5W) | Discover how containers work |
+| **Podman Serie 1** |  |  | Master Podman  |
 
 
 ---
