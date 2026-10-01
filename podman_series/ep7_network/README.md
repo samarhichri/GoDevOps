@@ -92,7 +92,7 @@ You'll:
 7. Communicate using container names
 8. Connect a container to multiple networks
 
-📁 [`lab-01-network-basics`](./lab1/)
+📁 [`lab-01-network-basics`](./lab1)
 
 ---
 
@@ -110,7 +110,7 @@ You'll:
 6. Configure a service URL using an environment variable
 7. Use a network alias
 
-📁 [`lab-02-service-communication`](./lab2/)
+📁 [`lab-02-service-communication`](./lab2)
 
 ---
 
@@ -126,7 +126,7 @@ You'll:
 4. Bind a port to localhost only
 5. List all published ports
 
-📁 [`lab-03-port-publishing`](./lab3/)
+📁 [`lab-03-port-publishing`](./lab3)
 
 ---
 
