@@ -11,10 +11,7 @@ Understand the difference between:
 
 ## 1. Publish a Port
 
-podman run -d \
-  --name web-public \
-  -p 8080:80 \
-  docker.io/library/nginx
+podman run -d --name web-public -p 8080:80 docker.io/library/nginx
 
 Test:
 
@@ -26,10 +23,7 @@ podman port web-public
 
 ## 2. Bind to Localhost Only
 
-podman run -d \
-  --name web-local \
-  -p 127.0.0.1:8090:80 \
-  docker.io/library/nginx
+podman run -d --name web-local -p 127.0.0.1:8090:80 docker.io/library/nginx
 
 Check:
 
