@@ -92,7 +92,7 @@ You'll:
 7. Communicate using container names
 8. Connect a container to multiple networks
 
-📁 [`lab-01-network-basics`](./lab1)
+📁 [`lab-01-network-basics`](./Lab1)
 
 ---
 
